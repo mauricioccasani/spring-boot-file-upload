@@ -1,6 +1,5 @@
 package pe.com.mauricio.javac.controller;
 
-import pe.com.mauricio.javac.ResponseData;
 import pe.com.mauricio.javac.entity.Attachment;
 import pe.com.mauricio.javac.service.AttachmentService;
 

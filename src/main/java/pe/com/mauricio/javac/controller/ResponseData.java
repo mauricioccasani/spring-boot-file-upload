@@ -1,4 +1,4 @@
-package pe.com.mauricio.javac;
+package pe.com.mauricio.javac.controller;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
